@@ -1,0 +1,28 @@
+1.Python Basics Part-1
+What is python?
+
+https://medium.com/@mahendernarra/python-basics-part-1-6b4bc023471d
+
+2.Python Basic Part -2
+Data types
+
+https://medium.com/@mahendernarra/python-basic-part-2-086b14c66c09
+
+3.Python Part-3 operators
+
+https://medium.com/@mahendernarra/python-part-3-operators-f404db76d74c
+
+4.Funtions in Python :
+
+https://medium.com/@mahendernarra/funtions-in-python-b27a3a51c3c8
+
+5.Functions Part -2
+Necessity of user defined functions
+
+https://medium.com/@mahendernarra/functions-part-2-3f03da7abecf
+
+6.OOPS concepts in Python Part -1
+Class & Object
+
+https://medium.com/@mahendernarra/oops-concepts-in-python-part-1-bd737f3efba3
+
